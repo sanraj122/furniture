@@ -4,7 +4,7 @@ function paymentProcess() {
 
 
     var options = {
-        "key": "rzp_live_go4NLkofAMW7gB", // Enter the Key ID generated from the Dashboard
+        "key": "rzp_test_V9k1l6BcyUYxaM", // Enter the Key ID generated from the Dashboard
         "amount": 1000*1000, // Amount is in currency subunits. Default currency is INR. Hence, 50000 means 50000 paise or ₹500.
         "currency": "INR",
         "name": "furniture store",
